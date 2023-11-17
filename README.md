@@ -11,9 +11,9 @@
 
 ## General-Info
 
-Deployed link: https://hatwin98.github.io/ulatroi-one/
+Deployed link: https://hatwin98.github.io/mot-hai-ba/
 
-Public Github Repo: https://github.com/hatwin98/ulatroi-one/
+Public Github Repo: https://github.com/hatwin98/mot-hai-ba/
 
 ## Module 2 Requirements
 
@@ -30,6 +30,7 @@ Public Github Repo: https://github.com/hatwin98/ulatroi-one/
 
 ## Screenshot
 
+<img width="1509" alt="mod 2 challenge" src="https://github.com/hatwin98/mot-hai-ba/assets/143030127/7b5127a0-792e-44f1-ad17-0df657b97ec2">
 
 
 ## Summary
